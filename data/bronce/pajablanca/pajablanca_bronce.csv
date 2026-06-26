@@ -1,0 +1,6 @@
+station_name,timestamp,pv_voltage_V,pv_current_A,pv_power_W,battery_voltage_V,battery_current_A,battery_soc_%,controller_temp_C,charging_status,load_current_A,load_power_W,energy_generated_today_kWh,energy_consumed_today_kWh,battery_voltage_max_today_V,battery_voltage_min_today_V,energy_total_generated_kWh,load_voltage_V
+PajaBlanca,2026-03-12 09:08:26,,,,,,,,,,,,,,,,
+PajaBlanca,2026-03-12 09:10:06,,,,,,,,,,,,,,,,
+PajaBlanca,2026-06-03 14:06:58,,,,,,,,,,,,,,,,
+PajaBlanca,2026-06-03 14:11:20,,,,,,,,,,,,,,,,
+PajaBlanca,2026-06-03 14:13:01,,,,,,,,,,,,,,,,
